@@ -1,0 +1,2 @@
+PyQt5
+https://github.com/marsipu/mne_pipeline_hd/zipball/main
